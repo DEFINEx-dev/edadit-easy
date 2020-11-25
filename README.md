@@ -1,2 +1,0 @@
-# edadit-easy
-solutions
